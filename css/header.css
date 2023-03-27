@@ -1,0 +1,16 @@
+.header {
+    padding:18px 0 18px 0;    
+}
+
+.header__conteiner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+@media (max-width:920px) {
+    .header__logo {
+    width: 124px;
+    }
+}
